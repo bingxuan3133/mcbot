@@ -42,7 +42,7 @@ Assessment:
 Build a automated cooking bot system where you can control the number of worker-bot.
 
 App screenshot:
-![alt text](https://github.com/bingxuan3133/mcbot/raw/master/src/screenshots/screenshot_001.png "Logo Title Text 1")
+![alt text](https://github.com/bingxuan3133/mcbot/blob/main/src/screenshots/screenshot_001.png "Logo Title Text 1")
 
 - use vuejs because I wanted to visualize the progress bar
 - everything states and logics goes into vue "Composables" - e.g.: useOrderBotDispatcher
